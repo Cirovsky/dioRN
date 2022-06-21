@@ -2,7 +2,7 @@
 # dioRN 
 ![image](https://user-images.githubusercontent.com/84918342/174888118-f584ce53-819a-49d9-b85d-5ecb30146de2.png)
 
-#Conteúdo:
+# Conteúdo:
 * o que é react-native
 * o que é crossplataform
 * origem do RN
