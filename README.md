@@ -16,16 +16,16 @@
   - Java 11 (JDK)
   - Yarn
   - Android Studio
-    Download android s
-    criar um avd (Android Virtual Device)
+    * Download android s
+    * criar um avd Android     Virtual Device)
 * Criação de projeto
 *  Projeto 'profile'
-  - View
-  - Text
-  - SafeAreaView
-  - Image
-  - Flex-box
-  - Style (StyleSheet)
-  - Pressable
-  - Linking API
-  - Adicionar código nativo no AndroidManifest.xml para abrir link
+    - View
+    - Text
+    - SafeAreaView
+    - Image
+    - Flex-box
+    - Style (StyleSheet)
+    - Pressable
+    - Linking API
+    - Adicionar código nativo no AndroidManifest.xml para abrir link
